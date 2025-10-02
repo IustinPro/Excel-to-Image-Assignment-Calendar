@@ -13,6 +13,7 @@ Unit Nr,	Assignment Name,	Assignment Number,	Due in
 
 Unit Nr & Assignment Number can only be a number.
 Due in Date must be formatted as DD/MM/YYYY e.g 12 January 2025 would be 12/01/2025, Only Numerical values
+Additionaly there is support for the due in date to be TBD (To Be Decided)
 
 2.
 Copy your address to the folder and in powershell run
